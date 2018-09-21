@@ -12,4 +12,4 @@ This portion will not be submitted to me yet. This is just a testing page for wh
 
 <!-- https://formspree.io/ -->
 
-{{< form-contact action="https://xaro.hecategames.com"  >}}
+<!-- {{< form-contact action="https://xaro.hecategames.com"  >}} -->
